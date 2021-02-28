@@ -5,7 +5,7 @@ description = ""
 authors = ["Vector <Vector@DESKTOP-3LVOC0E>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.6.0"
 texttable = "^1.6.3"
 
 [tool.poetry.dev-dependencies]
